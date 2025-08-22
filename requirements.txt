@@ -1,0 +1,4 @@
+selenium>=4.10.0
+prettytable>=3.6.0
+rich>=13.5.2
+colorama>=0.4.6

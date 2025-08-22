@@ -1,0 +1,21 @@
+{
+    "browser": "Firefox",
+    "extensions": [
+        [
+            "AdBlock",
+            "Read/Write Data"
+        ],
+        [
+            "Grammarly",
+            "Full Access"
+        ]
+    ],
+    "settings": {
+        "Do Not Track": "Enabled",
+        "Third-Party Cookies": "Blocked",
+        "Password Manager": "Enabled",
+        "HTTPS-Only Mode": "Enabled"
+    },
+    "tls_info": "{\"error\": \"TLS inspection not supported via Selenium for Firefox\"}...",
+    "score": 100
+}

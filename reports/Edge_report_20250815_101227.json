@@ -1,0 +1,21 @@
+{
+    "browser": "Edge",
+    "extensions": [
+        [
+            "AdBlock",
+            "Read/Write Data"
+        ],
+        [
+            "Grammarly",
+            "Full Access"
+        ]
+    ],
+    "settings": {
+        "Do Not Track": "Enabled",
+        "Third-Party Cookies": "Blocked",
+        "Password Manager": "Enabled",
+        "HTTPS-Only Mode": "Enabled"
+    },
+    "tls_info": "{}...",
+    "score": 100
+}
